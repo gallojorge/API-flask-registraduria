@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9991,
+
+  "data-db-connection": "mongodb+srv://mintic:bQQmRjmjH2jn9Dcy@cluster0.buffa3i.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "db-registraduria"
+}
